@@ -1,0 +1,1 @@
+{'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [-122.4194, 37.7749]}, 'properties': {'name': 'San Francisco'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [-74.0059, 40.7128]}, 'properties': {'name': 'New York City'}}]}

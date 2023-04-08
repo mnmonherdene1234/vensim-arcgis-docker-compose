@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+
+pysd
+netCDF4
+
+arcgis
+
+geojsonio
